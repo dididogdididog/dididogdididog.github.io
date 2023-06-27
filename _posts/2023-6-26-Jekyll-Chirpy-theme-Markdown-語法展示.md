@@ -4,7 +4,7 @@ date: 2023-06-26 +0800
 categories: [Notes,Jekyll]
 tags: [jekyll,chirpy,markdown]     # TAG names should always be lowercase
 math: true
-img_path: /assets/img/20230626/
+img_path: /assets/img/posts/20230626/
 ---
 
 ## 標題(Headings)
