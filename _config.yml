@@ -82,7 +82,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.ftpe5-1.fna.fbcdn.net/v/t39.30808-6/353679307_1522067291658342_1586064833709534882_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VhlM1ntX_SgAX_Tbgxv&_nc_ht=scontent.ftpe5-1.fna&oh=00_AfD7eFXNBOUWyO994bqGSyr1Uz5WxHcSfH2AOIkJkwWYCA&oe=649D00BC
+avatar: /assets/img/profile/didi.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
